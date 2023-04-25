@@ -173,3 +173,5 @@ TITANIC_DATASET
 ![ds5 2 3](https://user-images.githubusercontent.com/118680410/234243209-7c499d8c-6908-4b87-9a24-c8a2aa110b01.png)
 ![ds5 2 4](https://user-images.githubusercontent.com/118680410/234243275-225fbc09-c2e4-45a7-9cac-e4a460ce8f1d.png)
 
+RESULT:
+Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
